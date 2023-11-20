@@ -3,6 +3,8 @@ title: Welcome to Max Samusevich and Alisa Khafizova Email Design, Development, 
 ---
 
 > [!info] Скоро здесь будет русскоязычная версия
+>
+> The English version is on [cult.email](https://cult.email)
 
 **Hi, my name is Max:) I’m a professional Email developer & designer with 500+ emails created for small, medium businesses, bloggers, and big companies including Audi, Renault, Tele2, Coral Travel, AnyWayAnyDay.**
 
